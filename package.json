@@ -1,0 +1,28 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "1. process\r 2. path && URL\r 3. file system + задача + вариант с промисами\r 4. Операционная система + процессы cluster\r 5. event emitter. События\r 6. Стримы\r 7. http сервер. Основы\r 8. Создание небольшого фреймворка\r 9. План на дальнейшее обучение",
+  "main": "test.js",
+  "scripts": {
+    "start": "node lessons/process.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niopica/node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niopica/node-js/issues"
+  },
+  "homepage": "https://github.com/niopica/node-js#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
